@@ -2,6 +2,7 @@
 //........SPYCAM........//
 //////////////////////////
 
+//////// DEKLARASI ////////
 // Tower Pro MG996R
 #include <Servo.h>
 Servo camServo;
